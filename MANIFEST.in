@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include requirements.txt
+include install.sh
+include install.bat
+include .gitignore
+include claude_desktop_config.example.json
+include MANIFEST.in
+include sample_output.md 
