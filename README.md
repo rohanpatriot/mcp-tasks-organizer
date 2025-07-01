@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/huntsyea-mcp-tasks-organizer-badge.png)](https://mseep.ai/app/huntsyea-mcp-tasks-organizer)
+
 # MCP Tasks Organizer
 
 An MCP server that converts Cursor agent plans into structured markdown task lists and organizes them in your repository. This server helps you track AI-generated plans and recommendations as actionable specifications.
