@@ -1,7 +1,7 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/huntsyea-mcp-tasks-organizer-badge.png)](https://mseep.ai/app/huntsyea-mcp-tasks-organizer)
-
 # MCP Tasks Organizer
-[![smithery badge](https://smithery.ai/badge/@rohanpatriot/mcp-tasks-organizer)](https://smithery.ai/server/@rohanpatriot/mcp-tasks-organizer)
+[![smithery badge](https://smithery.ai/badge/@rohanpatriot/mcp-tasks-organizer)](https://smithery.ai/server/@rohanpatriot/mcp-tasks-organizer) [![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/4cba506f-04a5-422d-999d-6794c34ff81d) <a href="https://glama.ai/mcp/servers/@rohanpatriot/mcp-tasks-organizer">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@rohanpatriot/mcp-tasks-organizer/badge" />
+</a>
 
 An MCP server that converts Cursor agent plans into structured markdown task lists and organizes them in your repository. This server helps you track AI-generated plans and recommendations as actionable specifications.
 
