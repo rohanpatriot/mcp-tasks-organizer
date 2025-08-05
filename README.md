@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/huntsyea-mcp-tasks-organizer-badge.png)](https://mseep.ai/app/huntsyea-mcp-tasks-organizer)
+
 # MCP Tasks Organizer
 [![smithery badge](https://smithery.ai/badge/@rohanpatriot/mcp-tasks-organizer)](https://smithery.ai/server/@rohanpatriot/mcp-tasks-organizer)
 
