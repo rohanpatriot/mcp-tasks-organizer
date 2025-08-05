@@ -1,4 +1,5 @@
 # MCP Tasks Organizer
+[![smithery badge](https://smithery.ai/badge/@huntsyea/mcp-tasks-organizer)](https://smithery.ai/server/@huntsyea/mcp-tasks-organizer)
 
 An MCP server that converts Cursor agent plans into structured markdown task lists and organizes them in your repository. This server helps you track AI-generated plans and recommendations as actionable specifications.
 
@@ -13,6 +14,14 @@ An MCP server that converts Cursor agent plans into structured markdown task lis
 - Integrates with Claude for Desktop and other MCP clients
 
 ## Installation
+
+### Installing via Smithery
+
+To install Tasks Organizer for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@huntsyea/mcp-tasks-organizer):
+
+```bash
+npx -y @smithery/cli install @huntsyea/mcp-tasks-organizer --client claude
+```
 
 ### Prerequisites
 
